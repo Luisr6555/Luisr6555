@@ -1,9 +1,8 @@
-ola eu mim chamo luis henrique e estou compartilando este trabalho para ajudar vocês.
-este trabalho é sobre barbearias foi feito por duas pessoas luis henrique e felipe brito.
-RELATORIO
-1.	Introdução
+ola eu mim chamo luis henrique e estou compartilhando este trabalho para ajudar vocês.
+este trabalho é sobre barbearias foi feito por duas pessoas luis henrique e felipe brito e foi o projeto final do curso de sistema de informação.
+RELATORIO:
 
-
+1. Introdução
 
 A profissão de barbeiro é uma das mais antigas de que se tem registro. Estudos indicam que a prática de barbear pode ter surgido cerca de 6000 anos atrás em serviços oferecidos para a nobreza Egípcia, onde utilizavam pedras afiadas ou conchas de ostras (SCALISHEAHAN, 2010).
 Na Grécia de 500 a.C. barbeiros cuidavam não somente da barba, como de machucados e cicatrizes nos rostos dos homens. Em 290 a.C. a profissão já era muito popular em Roma, onde as barbearias eram lugares onde os homens podiam não apenas barbear, mas discutir sobre política e notícias do dia. Com o surgimento da navalha em 1740 e seu aperfeiçoamento em 1840 por William Henson, que criou o sistema de barbear em forma de “T”, aliado ao surgimento de cursos profissionalizantes, que tornaram obrigatórias licenças ou certificações para exercer a profissão de barbeiro, o número de barbearias nos Estados Unidos sofreu um aumento muito rápido e o sucesso se espalhou por todos os nichos da sociedade (BARBEIROS, 2018d).
@@ -16,7 +15,7 @@ No final de 2019 surgiu um novo fator que modificou não apenas a dinâmica como
 Tal fato, amplifica o uso da acessibilidade a ferramentas em prol da sociedade como um todo, como um fator global e não apenas especifico decorrente de situações que não estão sob o controle do ser humano. Também como um modo de ser acessível sem precisar sair de casa e obter as escolhas na palma da sua mão, tornando-se algo acessível e confortável não apenas economicamente, mas fisicamente.
 A importância de um website para barbearias voltado a captação de clientes de diferentes níveis sociais é altamente relevante para públicos que não possuem acesso primário a barbearias de localização especifica, que possuem meios de proporcionar qualidade em seus serviços assim como facilitar a localização, meios de agendamento de horários, planos mensais cabíveis economicamente além de amplificar a publicidade das barbearias em si através da utilização de recompensas geradas pelos seguintes meios: plataforma, marketing, acessibilidade, economia e tecnologia. Onde ambos, tanto os empresários do ramo quanto os clientes obterão resultados satisfatórios.
  
-2.	Referencial Teórico
+2. Referencial Teórico
 
 Para a realização deste trabalho, faz-se necessário o entendimento de três áreas do conhecimento: Sistema de Informação, Desenvolvimento Web e Banco de dados. 
 A primeira área tem o objetivo de apoiar o desenvolvimento de todo o sistema. 
@@ -37,7 +36,7 @@ Neste trabalho serão utilizados diversos conceitos presentes na área da Sistem
 
 	
 	 
-3.	Metodologia
+3. Metodologia
 
 A composição metodológica inicial foi revisão de literatura por intermédio de busca no campo bibliográfico acerca dos dados Google Scholar,
 através da identificação de artigos 
@@ -49,7 +48,7 @@ e facilitar no controle da agenda dos barbeiros dessa barbearia, o web site fica
 
 
 
-4.	Cronograma
+4. Cronograma
 
 A partir do dia 05/09/2023 até o dia 12/09/2023 começa a idealização do site. 
 -	dia 05/09/2023 até 06/09/2023, discursão com o cliente referente ao nome é a logo do site. 
@@ -67,14 +66,14 @@ A partir do dia 26/09/2023 até o dia 03/10/2023 o cliente será notificado sobr
 -	dia 28/11/2023 período de verificação e alteração e possíveis alterações.
 
  
-5.	Resultados Alcançados
+5. Resultados Alcançados
 
 Destarte, no intuito de objetivar uma fácil acessibilidade e utilização para as camadas sociais menos favorecidas, conclui-se que a ferramenta é de extrema importância, pois a captação dos clientes acaba sendo observada de forma ampla através da proporção da qualidade dos serviços ofertados como a fácil localização, meios de agendamento de horários, planos mensais cabíveis economicamente além da amplificação a publicidade das barbearias em si e da utilização de recompensas geradas pelos seguintes meios: plataforma, marketing, acessibilidade, economia e tecnologia.
 Tornando-se imprescindível citar que a ferramenta não é apenas voltada ao público alvo referente a captação mencionada anteriormente, mas também para os demais indivíduos que serão beneficiados com a utilização da mesma, isso se dá, diante do fator de ampla acessibilidade e dos meios proporcionados voltados ao perfil de todos os consumidores.
 Dentre as diversas funcionalidades do sistema, as principais são a possibilidade de o usuário visualizar diversas barbearias e agendar sua visita a um estabelecimento por meio da utilização da internet, e facilitar o controle da agenda dos barbeiros dessas barbearias. 
 Com a finalidade de demonstrar os resultados produzidos, foram disponibilizadas ao final deste trabalho imagens do sistema com a esquematização das telas e das funcionalidades produzidas, utilizando dados fictícios. Com o intuito de prover um acesso que amplie cada vez mais a busca por ambientes relacionados a indústria da beleza, voltados ao ramo das barbearias e com um público-alvo diversificado economicamente. 
 
-6.	Instalação e Usabilidade
+6. Instalação e Usabilidade
 
 Instalação:
 
